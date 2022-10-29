@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "486341083603",
+    "project_id": "attendance-de3f1",
+    "storage_bucket": "attendance-de3f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486341083603:android:75e1537262685974b82f26",
+        "android_client_info": {
+          "package_name": "kon.ritam.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486341083603-8iufnukaou513u0jsub9qacdja0ds029.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtSq4zehXhn2Vk6ARiZOHN4HI2dvcXzE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486341083603-8iufnukaou513u0jsub9qacdja0ds029.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "486341083603-kqk5pda2i34f1dvk58vd5bhv4sv24i80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kon.ritam.attendance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
